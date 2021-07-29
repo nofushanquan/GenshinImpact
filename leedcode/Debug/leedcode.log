@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\Users\12559\source\repos\leedcode\leedcode\源.cpp(93,21): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\12559\source\repos\leedcode\leedcode\源.cpp(127,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\12559\source\repos\leedcode\leedcode\源.cpp(134,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\12559\source\repos\leedcode\leedcode\源.cpp(181,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\12559\source\repos\leedcode\leedcode\源.cpp(164): warning C4715: “bfs”: 不是所有的控件路径都返回值
+  leedcode.vcxproj -> C:\Users\12559\source\repos\leedcode\Debug\leedcode.exe
